@@ -2,10 +2,9 @@
   "name": "event",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "start": "parcel fest-darkc480.html",
-    "build": "parcel build",
+    "build": "parcel build fest-darkc480.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
